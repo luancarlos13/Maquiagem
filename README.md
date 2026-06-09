@@ -49,6 +49,6 @@ Além disso, serve como base para projetos mais avançados, como agendamentos on
 
 ## 🖇️ Links 
 
-Repositório:
+Repositório: https://github.com/luancarlos13/Maquiagem
 
-Deploy do Projeto: 
+Deploy do Projeto: https://luancarlos13.github.io/Maquiagem/
